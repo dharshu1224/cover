@@ -118,7 +118,7 @@ footer{
             <h3>B.E. Computer Science and Engineering</h3>  
             <footer>
                 <div id="HASH" class="blue-msg">
-                    <span>NETHRAA N</span>
+                    <span>DHARSHINI.S</span>
                     <span id="end"><u>SEC</u></span>
                 </div>
             </footer>
